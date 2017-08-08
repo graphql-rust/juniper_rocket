@@ -1,7 +1,7 @@
 # juniper_rocket
 
 [![Build Status](https://travis-ci.org/graphql-rust/juniper_rocket.svg?branch=master)](https://travis-ci.org/graphql-rust/juniper_rocket)
-[![Build status](https://ci.appveyor.com/api/projects/status/fq6m6e7dof6trrpf/branch/master?svg=true)](https://ci.appveyor.com/project/graphql-rust/juniper_rocket/branch/master)
+[![Build status](https://ci.appveyor.com/api/projects/status/9j9bvj7q05jcxw2v?svg=true)](https://ci.appveyor.com/project/theduke/juniper-rocket)
 [![Crates.io](https://img.shields.io/crates/v/juniper_rocket.svg?maxAge=2592000)](https://crates.io/crates/juniper_rocket)
 [![Gitter chat](https://badges.gitter.im/juniper-graphql/gitter.png)](https://gitter.im/juniper-graphql)
 
