@@ -10,7 +10,9 @@ implementation for Rust.
 
 ## Documentation
 
-The documentation can be found on [docs.rs][documentation].
+Once the crate is published, the documentation will be on [docs.rs][documentation].
+
+For now, please consult the example below.
 
 ## Examples
 
